@@ -5,6 +5,7 @@ Simplified solution
 '''
 
 
+
 import math
 import os
 import random
